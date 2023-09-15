@@ -1,7 +1,7 @@
 const MainView = () => {
     return(
         <main>
-          MainView
+            MainView
         </main>
     )
 };
